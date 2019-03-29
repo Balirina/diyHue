@@ -1,3 +1,5 @@
+Cambio personalizado del documento Readme.
+Irina, 29 de marzo; 13:29
 [![license](https://img.shields.io/badge/license-GPLv3%2FApache%202.0%2FCC%20BY--SA%204.0-blue.svg)](https://github.com/diyhue/diyHue/blob/master/LICENSE.md)
 [![CommitActivity](https://img.shields.io/github/commit-activity/y/diyhue/diyhue.svg)](https://github.com/diyhue/diyHue/commits/master)
 [![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
@@ -19,7 +21,7 @@ This project emulates a Philips Hue Bridge that is able to control ZigBee lights
 
 ## Getting Started
 All documentation  and instructions can be found over at [diyhue.readthedocs.io](https://diyhue.readthedocs.io/)
-
+!---todas las documentaciones e instructiones pueden ser encontrados en dicho enlace.
 ## Requirements:
  - python 3
  - nmap package for esp8266 lights autodiscover ```sudo apt install nmap```
