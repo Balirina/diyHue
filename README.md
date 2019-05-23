@@ -1,4 +1,4 @@
-Cambio personalizado del documento Readme.
+﻿Cambio personalizado del documento Readme.
 Irina, 29 de marzo; 13:29
 [![license](https://img.shields.io/badge/license-GPLv3%2FApache%202.0%2FCC%20BY--SA%204.0-blue.svg)](https://github.com/diyhue/diyHue/blob/master/LICENSE.md)
 [![CommitActivity](https://img.shields.io/github/commit-activity/y/diyhue/diyhue.svg)](https://github.com/diyhue/diyHue/commits/master)
@@ -125,3 +125,5 @@ Credits:
   - [@cheesemarathon](https://github.com/cheesemarathon) - Help with Docker images
   - [@Mevel](https://github.com/Mevel) - 433Mhz devices
   - [@Nikfinn99](https://github.com/Nikfinn99) - PCB designs
+
+Cambio ahora el fichero para hacer un commit desde git
